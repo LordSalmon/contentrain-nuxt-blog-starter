@@ -6,6 +6,7 @@ title: "Why Contentrain is the best CMS"
 description: "Lorem markdownum virorum monebat damno, declivis super dextramque foramina\nmonte. Creverat erunt. Thalamoque obliquum canitie mediis\nnunc diva Argolicas et virgo ut flectere fertis saeva sibi genitore. "
 categories:
   - "cms"
+  - "next category"
 tags:
   - "design"
   - "test abc"
